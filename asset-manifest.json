@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FeedbackFormClient/static/css/main.c751f046.css",
+    "main.js": "/FeedbackFormClient/static/js/main.533cb3de.js",
+    "index.html": "/FeedbackFormClient/index.html",
+    "main.c751f046.css.map": "/FeedbackFormClient/static/css/main.c751f046.css.map",
+    "main.533cb3de.js.map": "/FeedbackFormClient/static/js/main.533cb3de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c751f046.css",
+    "static/js/main.533cb3de.js"
+  ]
+}
